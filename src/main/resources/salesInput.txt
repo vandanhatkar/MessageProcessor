@@ -1,0 +1,52 @@
+banana at 20p
+6 sales of banana at 20p
+Subtract 10p banana
+10 sales of banana at 10p
+pear at 30p
+6 sales of pear at 30p
+Multiply 10p pears
+4 sales of pears at 300p
+plum at 20p
+6 sales of plums at 20p
+14 sales of plums at 20p
+Add 10p plums
+apple at 10p
+12 sales of apples at 10p
+Add 10p apples
+14 sales of apples at 20p
+17 sales of bananas at 10p
+8 sales of pears at 300p
+6 sales of plums at 30p
+15 sales of apples at 20p
+18 sales of bananas at 10p
+8 sales of pears at 300p
+4 sales of plums at 30p
+8 sales of apples at 20p
+7 sales of bananas at 10p
+35 sales of apples at 20p
+45 sales of plums at 30p
+15 sales of pears at 300p
+14 sales of plums at 30p
+15 sales of apples at 20p
+16 sales of bananas at 10p
+8 sales of pears at 300p
+13 sales of plums at 30p
+15 sales of apples at 20p
+17 sales of bananas at 10p
+3 sales of pears at 300p
+14 sales of plums at 30p
+6 sales of apples at 20p
+18 sales of bananas at 10p
+6 sales of pears at 300p
+87 sales of plums at 30p
+56 sales of apples at 20p
+4 sales of bananas at 10p
+67 sales of pears at 300p
+87 sales of bananas at 10p
+4 sales of pears at 300p
+65 sales of plums at 30p
+43 sales of apples at 20p
+21 sales of bananas at 10p
+34 sales of pears at 300p
+78 sales of plums at 30p
+5 sales of apples at 20p
