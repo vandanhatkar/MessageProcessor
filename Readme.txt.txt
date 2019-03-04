@@ -1,0 +1,1 @@
+Added .gitignore file but keeping all unwanted files so user can run project once he download project.
